@@ -1,0 +1,6 @@
+1. If there is a winning move take it.
+2. If the player has a possible winning move on their next turn move into that position.
+3. Take any one of the corners. If more than one is available randomly decide.
+4. Take the center position.
+5. Take one of the edges. If more than one is available randomly decide.
+6. If no move is possible the game is a tie.
